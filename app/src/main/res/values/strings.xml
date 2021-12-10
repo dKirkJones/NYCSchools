@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">NYCSchools</string>
+    <string name="fake_text">Fake text</string>
+    <string name="click_here_to_view_sat_scores">Click Here to View SAT Scores</string>
+
+    <string name="sat_tests_taken">Total SAT Tests Taken: </string>
+    <string name="reading_average">Average Reading Score: </string>
+    <string name="writing_average">Average Writing Score: </string>
+    <string name="math_average">Average Math Score: </string>
+
+
+    <string name="school_information">School Information</string>
+    <string name="loading_data">Loading data...</string>
+    <string name="chooser_send_mail">Send mail...</string>
+    <string name="error">ERROR! </string>
+    <string name="error_message">Could not retrieve selected school...</string>
+    <string name="error_message_display">Error retrieving data. Check Network Connection.</string>
+
+
+    <string name="no_sat_reported">This school has not reported any SAT scores for the given year</string>
+</resources>
